@@ -20,7 +20,7 @@ This project focuses on cleaning and transforming real-world Airbnb listing data
 /*
 
 
- Look at: SQLQuery2 - cafe sales.sql
+ Look at: SQLQuery_NashvilleHousing.sql
 
 */
 
