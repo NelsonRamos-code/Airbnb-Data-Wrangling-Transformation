@@ -17,7 +17,7 @@ This project focuses on cleaning and transforming real-world Airbnb listing data
 
 <h2>Program walk-through:</h2>
 
-```
+```sql
 SELECT *
 FROM DataCleaningProject.dbo.NashvilleHousing
 
